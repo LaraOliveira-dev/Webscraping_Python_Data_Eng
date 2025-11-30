@@ -1,0 +1,10 @@
+Starting ETL process for Largest Banks data. Extracting data
+Data extraction complete. Initiating data transformation.
+Data transformation complete. Initiating data load to CSV.
+Data load to CSV complete.
+SQL Connection initiated.
+Data load to Database complete. Initiating queries.
+Query for London office executed. Starting next query.
+Query for Berlin office executed. Starting next query
+Query for New Delhi office executed.
+Queries executed. ETL process complete.
